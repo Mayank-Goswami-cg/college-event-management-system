@@ -16,7 +16,12 @@ Ganesh Chaturthi event in Swaminarayan University management  system repo
 - Garma Garam Puri
 - Dal Bhat
 - Buttermilk
-
+## Snaks
+- samosa
+- cold drink
+- chaat
+- pakoda
+  
 ## Dinner
 
 - Ukadiche Modak
