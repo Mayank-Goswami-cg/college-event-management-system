@@ -1,2 +1,26 @@
-# college-event-management-system
+# College-Event-management-system
 Ganesh Chaturthi event in Swaminarayan University management  system repo 
+
+# Cateress Department
+
+## BreakFast 
+
+- Lapsi
+- Modak
+- Mix Fruits
+
+## Lunch
+
+- Moti chur ka laddu
+- Batake Rasewala
+- Garma Garam Puri
+- Dal Bhat
+- Buttermilk
+
+## Dinner
+
+- Ukadiche Modak
+- Bundi Gathiya
+- Aloo Tamatar 
+- Garma Garma Puriyaa
+- Masale Bhaat
