@@ -31,3 +31,35 @@ Treasurer department tracks all student contributions and funds gathered across 
 | 20 | Jay Patel | Ayurvedic | 250 |
 | 21 | Shiva Yadav | Ayurvedic | 151 |
 
+# Cateress Department
+
+## BreakFast 
+
+- Lapsi
+- Modak
+- Mix Fruits
+
+## Lunch
+
+- Moti chur ka laddu
+- Batake Rasewala
+- Garma Garam Puri
+- Dal Bhat
+- Buttermilk
+  
+## Snacks
+
+- samosa
+- cold drink
+- chaat
+- pakoda
+  
+## Dinner
+
+- Ukadiche Modak
+- Bundi Gathiya
+- Aloo Tamatar 
+- Garma Garma Puriyaa
+- Masale Bhaat
+
+
