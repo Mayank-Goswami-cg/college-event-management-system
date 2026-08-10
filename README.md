@@ -294,6 +294,8 @@ Treasurer department tracks all student contributions and funds gathered across 
 | 19 | Dax Narodiya | Ayurvedic | 500 |
 | 20 | Jay Patel | Ayurvedic | 250 |
 | 21 | Shiva Yadav | Ayurvedic | 151 |
+| :---: | :---: | :---: | :---: |
+| **Total** |  |  | **6061** |
 
 # Cateress Department
 
