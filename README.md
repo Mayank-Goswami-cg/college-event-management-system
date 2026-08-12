@@ -62,7 +62,7 @@
 
 ---
 
-# 💌 YOU ARE INVITED 💌
+# 💌 YOU ARE INVITED WITH LOVE 💌
 
 🌸 **Dear Friends, Family & Everyone,** 🌸
 
